@@ -1,0 +1,14 @@
+C:\Users\Murilo\Documents\Projetos\geradorCPF\bin\Debug\net8.0\geradorCPF.exe
+C:\Users\Murilo\Documents\Projetos\geradorCPF\bin\Debug\net8.0\geradorCPF.deps.json
+C:\Users\Murilo\Documents\Projetos\geradorCPF\bin\Debug\net8.0\geradorCPF.runtimeconfig.json
+C:\Users\Murilo\Documents\Projetos\geradorCPF\bin\Debug\net8.0\geradorCPF.dll
+C:\Users\Murilo\Documents\Projetos\geradorCPF\bin\Debug\net8.0\geradorCPF.pdb
+C:\Users\Murilo\Documents\Projetos\geradorCPF\obj\Debug\net8.0\geradorCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo\Documents\Projetos\geradorCPF\obj\Debug\net8.0\geradorCPF.AssemblyInfoInputs.cache
+C:\Users\Murilo\Documents\Projetos\geradorCPF\obj\Debug\net8.0\geradorCPF.AssemblyInfo.cs
+C:\Users\Murilo\Documents\Projetos\geradorCPF\obj\Debug\net8.0\geradorCPF.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\Documents\Projetos\geradorCPF\obj\Debug\net8.0\geradorCPF.dll
+C:\Users\Murilo\Documents\Projetos\geradorCPF\obj\Debug\net8.0\refint\geradorCPF.dll
+C:\Users\Murilo\Documents\Projetos\geradorCPF\obj\Debug\net8.0\geradorCPF.pdb
+C:\Users\Murilo\Documents\Projetos\geradorCPF\obj\Debug\net8.0\geradorCPF.genruntimeconfig.cache
+C:\Users\Murilo\Documents\Projetos\geradorCPF\obj\Debug\net8.0\ref\geradorCPF.dll
